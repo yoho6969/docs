@@ -12,15 +12,15 @@ redirect_from:
   - /articles/how-can-i-add-extra-information-to-my-organization-s-receipts/
   - /articles/adding-information-to-your-organization-s-receipts/
   - /articles/adding-information-to-your-receipts
-  - /github/setting-up-and-managing-billing-and-payments-on-github/adding-information-to-your-receipts
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-your-github-billing-settings/adding-information-to-your-receipts
 versions:
-  free-pro-team: '*'
+  fpt: '*'
 type: how_to
 topics:
   - Organizations
   - Receipts
   - User account
+shortTitle: Add to your receipts
 ---
 Your receipts include your {% data variables.product.prodname_dotcom %} subscription as well as any subscriptions for [other paid features and products](/articles/about-billing-on-github).
 

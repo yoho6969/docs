@@ -18,16 +18,16 @@ redirect_from:
   - /articles/adding-seats-to-your-organization/
   - /articles/upgrading-your-github-billing-plan/
   - /articles/upgrading-your-github-subscription
-  - /github/setting-up-and-managing-billing-and-payments-on-github/upgrading-your-github-subscription
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-your-github-account/upgrading-your-github-subscription
 versions:
-  free-pro-team: '*'
+  fpt: '*'
 type: how_to
 topics:
   - Organizations
   - Troubleshooting
   - Upgrades
   - User account
+shortTitle: Upgrade your subscription
 ---
 ## Upgrading your personal account's subscription
 

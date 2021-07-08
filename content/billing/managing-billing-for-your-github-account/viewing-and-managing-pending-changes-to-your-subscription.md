@@ -7,14 +7,14 @@ redirect_from:
   - /articles/viewing-and-managing-pending-changes-to-your-organization-s-billing-plan/
   - /articles/viewing-and-managing-pending-changes-to-your-billing-plan/
   - /articles/viewing-and-managing-pending-changes-to-your-subscription
-  - /github/setting-up-and-managing-billing-and-payments-on-github/viewing-and-managing-pending-changes-to-your-subscription
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-your-github-account/viewing-and-managing-pending-changes-to-your-subscription
 versions:
-  free-pro-team: '*'
+  fpt: '*'
 type: how_to
 topics:
   - Organizations
   - User account
+shortTitle: Pending subscription changes
 ---
 You can cancel pending changes to your account's subscription as well as pending changes to your subscriptions to other paid features and products.
 

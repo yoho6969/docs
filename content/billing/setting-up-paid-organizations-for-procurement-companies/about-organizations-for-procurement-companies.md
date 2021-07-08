@@ -5,13 +5,13 @@ redirect_from:
   - /github/setting-up-and-managing-billing-and-payments-on-github/about-organizations-for-procurement-companies
   - /articles/about-organizations-for-resellers/
   - /articles/about-organizations-for-procurement-companies
-  - /github/setting-up-and-managing-billing-and-payments-on-github/about-organizations-for-procurement-companies
   - /github/setting-up-and-managing-billing-and-payments-on-github/setting-up-paid-organizations-for-procurement-companies/about-organizations-for-procurement-companies
 versions:
-  free-pro-team: '*'
+  fpt: '*'
 type: overview
 topics:
   - Organizations
+shortTitle: About organizations
 ---
 To access an organization, each member must sign into their own personal user account.
 

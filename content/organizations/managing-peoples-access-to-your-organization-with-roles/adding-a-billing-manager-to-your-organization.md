@@ -5,11 +5,12 @@ redirect_from:
   - /articles/adding-a-billing-manager-to-your-organization
   - /github/setting-up-and-managing-organizations-and-teams/adding-a-billing-manager-to-your-organization
 versions:
-  free-pro-team: '*'
+  fpt: '*'
 topics:
   - Organizations
   - Teams
   - Billing
+shortTitle: Add a billing manager
 ---
 
 Members of your organization's Owners team can give *billing manager* permissions to people. Once a person accepts their invitation to become a billing manager for your organization, they can invite additional people to be billing managers.
@@ -29,6 +30,7 @@ Billing managers can:
 - View payment history
 - Download receipts
 - View, invite, and remove billing managers
+- Start, modify, or cancel sponsorships
 
 In addition, all billing managers will receive billing receipts by email on the organization's billing date.
 

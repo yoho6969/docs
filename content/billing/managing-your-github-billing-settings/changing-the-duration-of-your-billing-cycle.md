@@ -7,15 +7,15 @@ redirect_from:
   - /articles/switching-between-monthly-and-yearly-billing-for-your-personal-account/
   - /articles/switching-between-monthly-and-yearly-billing-for-your-organization/
   - /articles/changing-the-duration-of-your-billing-cycle
-  - /github/setting-up-and-managing-billing-and-payments-on-github/changing-the-duration-of-your-billing-cycle
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-your-github-billing-settings/changing-the-duration-of-your-billing-cycle
 versions:
-  free-pro-team: '*'
+  fpt: '*'
 type: how_to
 topics:
   - Organizations
   - Repositories
   - User account
+shortTitle: Billing cycle
 ---
 When you change your billing cycle's duration, your {% data variables.product.prodname_dotcom %} subscription, along with any other paid features and products, will be moved to your new billing cycle on your next billing date.
 

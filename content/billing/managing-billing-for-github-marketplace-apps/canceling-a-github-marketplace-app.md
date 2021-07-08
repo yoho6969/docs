@@ -6,10 +6,9 @@ redirect_from:
   - /articles/canceling-an-app-for-your-personal-account/
   - /articles/canceling-an-app-for-your-organization/
   - /articles/canceling-a-github-marketplace-app
-  - /github/setting-up-and-managing-billing-and-payments-on-github/canceling-a-github-marketplace-app
   - /github/setting-up-and-managing-billing-and-payments-on-github/managing-billing-for-github-marketplace-apps/canceling-a-github-marketplace-app
 versions:
-  free-pro-team: '*'
+  fpt: '*'
 type: how_to
 topics:
   - Cancellation
@@ -17,6 +16,7 @@ topics:
   - Organizations
   - Trials
   - User account
+shortTitle: Cancel a Marketplace app
 ---
 When you cancel an app, your subscription remains active until the end of your current billing cycle. The cancellation takes effect on your next billing date. For more information, see "[About billing for {% data variables.product.prodname_marketplace %}](/articles/about-billing-for-github-marketplace)."
 
